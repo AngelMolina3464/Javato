@@ -36,4 +36,8 @@ public class tools {
             System.out.println("Clave " + key + " No es Correcta");
         }
     }
+
+    public String plotting(String texto) {
+        return texto;
+    }
 }
